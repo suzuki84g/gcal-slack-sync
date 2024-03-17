@@ -1,0 +1,2 @@
+# gcal-slack-sync
+GoogleカレンダーとSlackのステータスをなんか良い感じにsyncするやつ
